@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+.top-bg{
+    background-image: url("A3-images/law.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-opacity{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#borders{
+    border: 2px dotted ;
+}
+#form-width{
+    max-width: 55%;
+}
+.container-color, .container-Feature-content, #carouselindicators, .clients-content, .bg-package{
+    background-color: rgb(240, 240, 240);
+}
+#bottom-border{
+    border-bottom: 2px solid;
+    width: 10%;
+    
+}
+#icon-bg, .project-detailse, #bg-detailse, #bg-package-content{
+    background-image: url('A3-images/bg-color.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container-video{
+    background-image: url('A3-images/istockphoto.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#carousel-margin{
+    margin-top: 13%;
+}
+#bottom-borders{
+    border-bottom: 0.5px solid;
+}
+#position{
+    position: absolute;
+    margin-bottom: -100px;
+}
