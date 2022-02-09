@@ -13,8 +13,8 @@ body{
     border: 2px dotted ;
 }
 #form-width{
-    max-width: 55%;
-}
+    max-width: 80%;
+} 
 .container-color, .container-Feature-content, #carouselindicators, .clients-content, .bg-package{
     background-color: rgb(240, 240, 240);
 }
@@ -38,8 +38,4 @@ body{
 }
 #bottom-borders{
     border-bottom: 0.5px solid;
-}
-#position{
-    position: absolute;
-    margin-bottom: -100px;
 }
